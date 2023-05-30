@@ -1,4 +1,4 @@
-# RL-MTL
+# RMTL
 Code for RetailRocket Dataset. Please convert data into MDP format.
 
 ## Model Code
