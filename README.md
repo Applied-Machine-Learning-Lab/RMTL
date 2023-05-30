@@ -1,4 +1,7 @@
-# RMTL
+# Multi-Task Recommendations with Reinforcement Learning
+Source code of [Multi-Task Recommendations with Reinforcement Learning](https://dl.acm.org/doi/10.1145/3543507.3583467)
+
+
 Code for RetailRocket Dataset. Please convert data into MDP format.
 
 ## Model Code
