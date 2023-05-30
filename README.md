@@ -1,7 +1,7 @@
 # Multi-Task Recommendations with Reinforcement Learning
 Source code of [Multi-Task Recommendations with Reinforcement Learning](https://dl.acm.org/doi/10.1145/3543507.3583467)
-
 Code for RetailRocket Dataset. Please convert data into MDP format.
+![](https://github.com/Applied-Machine-Learning-Lab/RMTL/blob/main/Framework.pdf)
 
 ## Model Code
 + layers: stores common network structures
