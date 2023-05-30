@@ -38,11 +38,11 @@ task 1, AUC 0.7247954179346048, Log-loss 0.048957254763240504
 # Citation：
 Please cite with the below bibTex if you find it helpful to your research.
 
-  @inproceedings{liu2023multi,
-    title={Multi-Task Recommendations with Reinforcement Learning},
-    author={Liu, Ziru and Tian, Jiejie and Cai, Qingpeng and Zhao, Xiangyu and Gao, Jingtong and Liu, Shuchang and Chen, Dayou and He, Tonghao and Zheng, Dong and Jiang, Peng and others},
-    booktitle={Proceedings of the ACM Web Conference 2023},
-    pages={1273--1282},
-    year={2023}
-  }
+@inproceedings{liu2023multi,  
+  title={Multi-Task Recommendations with Reinforcement Learning},  
+  author={Liu, Ziru and Tian, Jiejie and Cai, Qingpeng and Zhao, Xiangyu and Gao, Jingtong and Liu, Shuchang and Chen, Dayou and He, Tonghao and Zheng, Dong and Jiang, Peng and others},  
+  booktitle={Proceedings of the ACM Web Conference 2023},  
+  pages={1273--1282},  
+  year={2023}. 
+}. 
 
