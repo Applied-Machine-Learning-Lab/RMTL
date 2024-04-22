@@ -3,7 +3,7 @@ Source code of [Multi-Task Recommendations with Reinforcement Learning](https://
 
 Code for RetailRocket Dataset.
 
-**Google Drive link for processed RetailRocket data:** https://drive.google.com/file/d/1E74vgTD0VSy-gA1OAs2J8eMZVW3T-Eam/view?usp=sharing
+**Google Drive link for processed RetailRocket data:** https://drive.google.com/file/d/1THRWKttdpmcNaEc1DtKwxgYlV8RLMtV5/view?usp=sharing
 
 
 # Model Code
